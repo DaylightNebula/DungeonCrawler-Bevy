@@ -1,14 +1,16 @@
 ================ General ================
-- [ ] Scene "plugins" to separate states into their own files
+- [x] Scene "plugins" to separate states into their own files
   - [x] Main Menu
-  - [ ] Character Editor
-  - [ ] Level
+  - [x] Character Editor
+  - [x] Level
 - [ ] Download assets from https server
 
 =============== Main Menu ===============
 - [ ] New game button
 - [ ] Load game button
 - [ ] Quit button
+- [ ] Transition to load list
+- [ ] If element in load list and clicked, load it
 
 ========== Character Creation ===========
 - [ ] Allow players to pick a class

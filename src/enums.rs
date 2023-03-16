@@ -5,5 +5,5 @@ pub enum AppState {
     #[default]
     MainMenu,
     CharacterEdit,
-    Game,
+    Level,
 }
